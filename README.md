@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
-- :telescope: I’m a Software Engineering Student , I'm working as a Full-Stack Developer and contributing to frontend and backend for building web and mobile applications.
+- :telescope: I'm a Software Engineer , I'm working as a Full-Stack Developer and contributing to frontend and backend for building web and mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
 
